@@ -1,4 +1,4 @@
-# Pytest Learning Notes
+# Pytest Framework: Setup, Execution, and Git Integration
 
 This repository contains my learning notes and commands related to **Pytest**, a powerful Python testing framework.
 
